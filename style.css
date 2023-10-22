@@ -1,0 +1,27 @@
+.umumi{
+    display: flex;
+    flex-direction: column;
+}
+.bashliq h1{
+   text-align: center;
+}
+
+.bashliq .metn{
+    float: left;
+}
+.bashliq .ilham img{
+    float: right;
+    width: 600px;
+    height: 350px;
+}
+
+.seherler{
+    padding-top: 30px;
+}
+.seherler img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
